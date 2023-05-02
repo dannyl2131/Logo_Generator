@@ -1,0 +1,6 @@
+<svg width="300" height="200">
+      <g>
+      <polygon points="80,0 0,200 250,370" fill="yellow"/>
+      <text x="35" y="170" font-size="65" fill="red">DJL</text>
+      </g>
+      </svg>
