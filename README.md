@@ -17,4 +17,4 @@
   <br /> 
     ##License
     https://opensource.org/license/mit/      
-    ![https://drive.google.com/file/d/1AiJOq1HNaIE6JjkDfX_JU1ak3pjgykAX/view](Video walkthrough)
+    ![Video walkthrough](https://drive.google.com/file/d/1AiJOq1HNaIE6JjkDfX_JU1ak3pjgykAX/view)
