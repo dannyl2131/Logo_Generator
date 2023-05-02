@@ -13,8 +13,8 @@
   <br /> ##Questions
   <br /> If there are any additional questions, please email me at dannyl2131@gmail.com
 
-  <br /> Here is a link to my Github profile if you'd like to check out any more of my work![github.com/dannyl2131](github.com/dannyl2131)
+  <br /> Here is a link to my Github profile if you'd like to check out any more of my work [github.com/dannyl2131](github.com/dannyl2131)
   <br /> 
     ##License
     https://opensource.org/license/mit/      
-    ![Video walkthrough](https://drive.google.com/file/d/1AiJOq1HNaIE6JjkDfX_JU1ak3pjgykAX/view)
+    [Video walkthrough]https://drive.google.com/file/d/1AiJOq1HNaIE6JjkDfX_JU1ak3pjgykAX/view
